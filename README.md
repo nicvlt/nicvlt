@@ -2,11 +2,11 @@
 <h3 align="center">Data & IA enthusiast from Paris</h3>
 
 Check out my latest projects:
-- 🏃‍♂ [️FRAthlete2015](https://frathlete2015.streamlit.app/): **Visualize athletes' data** from France in 2015 with my dashboard!
-- 🔒 [SaveIT](https://github.com/nicvlt/save-it): **Save your passwords** and logins and quickly connect to your socials & apps.
 - 📠 [Solution250](https://github.com/jeandtx/Solution250): A simple and efficient digital solution using **AI to leverage Business Intelligence**.
 - 🎸 [TADAI](https://github.com/cleophass/tadai): Love a song? Using a our **homemade Deep Learning model** & **Website**, you can explore similar titles.
-- 📷 [Translate Unit AI](https://github.com/jeandtx/Translate-Unit-AI): Need help **translating currencies, weights, lengths, speeds and more?** Our application assists you in this task.
+- - 📷 [Translate Unit AI](https://github.com/jeandtx/Translate-Unit-AI): Need help **translating currencies, weights, lengths, speeds and more?** Our application assists you in this task.
+- 🏃‍♂ [️FRAthlete2015](https://frathlete2015.streamlit.app/): **Visualize athletes' data** from France in 2015 with my dashboard!
+- 🔒 [SaveIT](https://github.com/nicvlt/save-it): **Save your passwords** and logins and quickly connect to your socials & apps.
 - 📫 How to reach me **nicolas.violot@efrei.net**
 
 <h3 align="left">🤝 Connect with me:</h3>
